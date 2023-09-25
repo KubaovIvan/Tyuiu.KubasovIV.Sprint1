@@ -7,7 +7,7 @@ namespace Tyuiu.KubasovIV.Sprint1.Task1.V0.Test
     public class DataServiceTest
     {
         [TestMethod]
-        public void TestMethod1()
+        public void ValidExpression()
         {
             DataService ds = new DataService();
             double x = 1.0;
